@@ -1,0 +1,38 @@
+bibentry(bibtype = "inproceedings",
+           header = "To cite the associated publication use:",
+           title = "DTW-Approach for uncorrelated multivariate time series imputation",
+	   booktitle = "27th IEEE International Workshop on Machine Learning for Signal Processing, MLSP 2017, Tokyo, Japan, September 25-28, 2017",
+author = "Thi-Thu-Hong Phan and Emilie Poisson-Caillault and Andre Bigand and Alain Lefebvre",
+           journal = "Pattern Recognition Letters",
+           year = "2017",
+  pages = "1--6",
+  crossref = "DBLP:conf/mlsp/2017",
+  url = "https://doi.org/10.1109/MLSP.2017.8168165",
+  doi = "10.1109/MLSP.2017.8168165",
+  timestamp = "Wed, 16 May 2018 14:25:05 +0200",
+  biburl = "https://dblp.org/rec/bib/conf/mlsp/PhanCBL17",
+  bibsource = "dblp computer science bibliography, https://dblp.org"
+
+           ## textVersion  = paste("Thi-Thu-Hong Phan and Emilie Poisson-Caillault and Andre Bigand and Alain Lefebvre (2017)",
+           ##   "DTW-Approach for uncorrelated multivariate time series imputation.",
+           ##   "International Workshop on Machine Learning for Signal Processing.",
+           ##   "URL https://doi.org/10.1109/MLSP.2017.8168165"),
+)
+
+bibentry(bibtype = "Article",
+           header       = "This package relies on DTW algorithm:",
+         
+           title        = "Computing and Visualizing Dynamic Time Warping Alignments in {R}: The {dtw} Package",
+           author       = as.person("Toni Giorgino"),
+           journal      = "Journal of Statistical Software",
+           year         = "2009",
+           volume       = "31",
+           number       = "7",
+           pages        = "1--24",
+           url          = "http://www.jstatsoft.org/v31/i07/",
+
+           ## textVersion  = paste("Toni Giorgino (2009).",
+           ##   "Computing and Visualizing Dynamic Time Warping Alignments in R: The dtw Package.",
+           ##   "Journal of Statistical Software, 31(7), 1-24.",
+           ##   "URL http://www.jstatsoft.org/v31/i07/"),
+)
